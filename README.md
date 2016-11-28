@@ -11,3 +11,5 @@ Purpose of the project.
 ## Deployment
 
 Sample website with plenty of files for demos
+
+2016 Git.Training
