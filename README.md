@@ -12,4 +12,6 @@ Purpose of the project.
 
 Sample website with plenty of files for demos
 
+#How to contribute
+Please fork this repository and then issue Pull Request.
 2016 Git.Training
